@@ -3,6 +3,8 @@ package org.example;
 public class Sadala {
     public static void main(String[] args) {
 
+        System.out.println("Bienvenidos al planeta Sadala malditos insectos!");
+
         //creando obj clase alta
 
         ClaseAlta guerrero1 = new ClaseAlta("Vegeta", 90,30,"negro");
